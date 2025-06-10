@@ -19,6 +19,9 @@ D2GP/
 │   ├── grounded_tasks.json
 │   ├── position_relationships_state.json
 │   └── all_objects.json
+│   └── demands.json
+│   └── tasks.json
+│   └── user_preferences.json
 ├── src/
 │   ├── DT_train.py
 │   ├── DT_test.py
