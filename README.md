@@ -14,12 +14,12 @@ A **user-demand-oriented**, **environment-adaptive** task planning system for se
 
 D2GP/
 ├── json/
-│   ├── available_actions.json            # Standard action templates for mapping LLM output to robot actions
-│   ├── available_examples.json           # Example tasks + multi-step action sequences (demonstration prompts)
-│   ├── demand_tasks.json                 # Demand–task samples for semantic contrastive learning in UATC
-│   ├── grounded_tasks.json               # Environment-adaptive grounded tasks for UATC retrieval
-│   ├── position_relationships_state.json # Full scene graph (positional & state info) for TSGP pruning
-│   └── all_objects.json                  # List of all objects in the environment
+│   ├── available_actions.json         
+│   ├── available_examples.json           
+│   ├── demand_tasks.json                
+│   ├── grounded_tasks.json       
+│   ├── position_relationships_state.json 
+│   └── all_objects.json                  
 │
 ├── src/
 │   ├── DT_train.py                       
