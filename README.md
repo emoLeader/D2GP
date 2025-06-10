@@ -7,11 +7,6 @@ A **user-demand-oriented**, **environment-adaptive** task planning system for se
 - **GTP** (Grounded Task Planning)
   
 > **Paper**: _From Demand to Grounded Plan: Task Customization and Planning for Service Robots with Deep Learning and LLMs_
-> 
----
-
-## 🚀 Features
-
 
 ---
 
