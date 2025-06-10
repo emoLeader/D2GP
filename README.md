@@ -11,6 +11,8 @@ A **user-demand-oriented**, **environment-adaptive** task planning system for se
 ---
 
 ## 📁 Repository Structure
+
+```text
 D2GP/
 ├── json/
 │   ├── available_actions.json
@@ -39,5 +41,5 @@ D2GP/
 ├── setup.txt
 ├── README.md
 └── LICENSE
-
+```
 
