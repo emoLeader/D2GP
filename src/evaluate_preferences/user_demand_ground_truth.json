@@ -1,0 +1,502 @@
+[
+  {
+    "user_id": "U001",
+    "demand": "I need a hot drink.",
+    "ground_truth_task": "serve coffee"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want some fruit to eat.",
+    "ground_truth_task": "serve banana"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I am looking for a snack.",
+    "ground_truth_task": "serve cookies"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need to have a meeting.",
+    "ground_truth_task": "prepare slides"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to relax and sit comfortably.",
+    "ground_truth_task": "bring cushion"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need something to store and keep food fresh.",
+    "ground_truth_task": "put food in fridge"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I am hungry and need something to eat.",
+    "ground_truth_task": "serve sandwich"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to listen to music.",
+    "ground_truth_task": "play classical music"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want a dessert.",
+    "ground_truth_task": "serve cake"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need a cold beverage.",
+    "ground_truth_task": "serve iced tea"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need to clean the room.",
+    "ground_truth_task": "vacuum floor"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to read a book.",
+    "ground_truth_task": "recommend book"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need to make a phone call.",
+    "ground_truth_task": "dial number"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to exercise.",
+    "ground_truth_task": "start treadmill"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need to check the weather.",
+    "ground_truth_task": "open weather app"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to watch TV.",
+    "ground_truth_task": "turn on TV"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need to take medicine.",
+    "ground_truth_task": "fetch medicine"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to do laundry.",
+    "ground_truth_task": "load washer"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I need to charge my phone.",
+    "ground_truth_task": "plug into charger"
+  },
+  {
+    "user_id": "U001",
+    "demand": "I want to cook dinner.",
+    "ground_truth_task": "preheat oven"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need a hot drink.",
+    "ground_truth_task": "serve tea"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want some fruit to eat.",
+    "ground_truth_task": "serve apple"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I am looking for a snack.",
+    "ground_truth_task": "serve chips"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need to have a meeting.",
+    "ground_truth_task": "turn on camera"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to relax and sit comfortably.",
+    "ground_truth_task": "adjust lighting"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need something to store and keep food fresh.",
+    "ground_truth_task": "open freezer"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I am hungry and need something to eat.",
+    "ground_truth_task": "serve salad"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to listen to music.",
+    "ground_truth_task": "play pop music"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want a dessert.",
+    "ground_truth_task": "serve ice cream"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need a cold beverage.",
+    "ground_truth_task": "serve lemonade"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need to clean the room.",
+    "ground_truth_task": "dust shelves"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to read a book.",
+    "ground_truth_task": "turn on lamp"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need to make a phone call.",
+    "ground_truth_task": "check signal"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to exercise.",
+    "ground_truth_task": "prepare yoga mat"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need to check the weather.",
+    "ground_truth_task": "check forecast"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to watch TV.",
+    "ground_truth_task": "select channel"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need to take medicine.",
+    "ground_truth_task": "pour water"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to do laundry.",
+    "ground_truth_task": "add detergent"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I need to charge my phone.",
+    "ground_truth_task": "check battery status"
+  },
+  {
+    "user_id": "U002",
+    "demand": "I want to cook dinner.",
+    "ground_truth_task": "chop vegetables"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need a hot drink.",
+    "ground_truth_task": "heat milk"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want some fruit to eat.",
+    "ground_truth_task": "serve orange"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I am looking for a snack.",
+    "ground_truth_task": "serve pretzels"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need to have a meeting.",
+    "ground_truth_task": "connect speakers"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to relax and sit comfortably.",
+    "ground_truth_task": "arrange chair"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need something to store and keep food fresh.",
+    "ground_truth_task": "label leftovers"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I am hungry and need something to eat.",
+    "ground_truth_task": "serve soup"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to listen to music.",
+    "ground_truth_task": "play ambient sound"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want a dessert.",
+    "ground_truth_task": "serve pie"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need a cold beverage.",
+    "ground_truth_task": "serve soda"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need to clean the room.",
+    "ground_truth_task": "wipe windows"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to read a book.",
+    "ground_truth_task": "get reading glasses"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need to make a phone call.",
+    "ground_truth_task": "charge phone"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to exercise.",
+    "ground_truth_task": "play workout music"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need to check the weather.",
+    "ground_truth_task": "measure temperature"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to watch TV.",
+    "ground_truth_task": "adjust volume"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need to take medicine.",
+    "ground_truth_task": "open pill box"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to do laundry.",
+    "ground_truth_task": "start washing machine"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I need to charge my phone.",
+    "ground_truth_task": "get charger"
+  },
+  {
+    "user_id": "U003",
+    "demand": "I want to cook dinner.",
+    "ground_truth_task": "boil water"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need a hot drink.",
+    "ground_truth_task": "make hot chocolate"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want some fruit to eat.",
+    "ground_truth_task": "make fruit salad"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I am looking for a snack.",
+    "ground_truth_task": "serve nuts"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need to have a meeting.",
+    "ground_truth_task": "schedule meeting"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to relax and sit comfortably.",
+    "ground_truth_task": "play soft music"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need something to store and keep food fresh.",
+    "ground_truth_task": "seal container"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I am hungry and need something to eat.",
+    "ground_truth_task": "serve omelette"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to listen to music.",
+    "ground_truth_task": "turn on speaker"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want a dessert.",
+    "ground_truth_task": "serve pudding"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need a cold beverage.",
+    "ground_truth_task": "serve juice"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need to clean the room.",
+    "ground_truth_task": "organize books"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to read a book.",
+    "ground_truth_task": "fetch bookmark"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need to make a phone call.",
+    "ground_truth_task": "find contacts"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to exercise.",
+    "ground_truth_task": "warm up stretches"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need to check the weather.",
+    "ground_truth_task": "look outside window"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to watch TV.",
+    "ground_truth_task": "get remote"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need to take medicine.",
+    "ground_truth_task": "check prescription"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to do laundry.",
+    "ground_truth_task": "hang clothes"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I need to charge my phone.",
+    "ground_truth_task": "connect power bank"
+  },
+  {
+    "user_id": "U004",
+    "demand": "I want to cook dinner.",
+    "ground_truth_task": "season meat"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need a hot drink.",
+    "ground_truth_task": "brew latte"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want some fruit to eat.",
+    "ground_truth_task": "serve grapes"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I am looking for a snack.",
+    "ground_truth_task": "serve granola bar"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need to have a meeting.",
+    "ground_truth_task": "set up projector"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to relax and sit comfortably.",
+    "ground_truth_task": "offer tea"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need something to store and keep food fresh.",
+    "ground_truth_task": "arrange pantry"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I am hungry and need something to eat.",
+    "ground_truth_task": "serve pizza"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to listen to music.",
+    "ground_truth_task": "shuffle playlist"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want a dessert.",
+    "ground_truth_task": "serve cookies"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need a cold beverage.",
+    "ground_truth_task": "serve cold water"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need to clean the room.",
+    "ground_truth_task": "take out trash"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to read a book.",
+    "ground_truth_task": "arrange comfy chair"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need to make a phone call.",
+    "ground_truth_task": "open dialer"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to exercise.",
+    "ground_truth_task": "fill water bottle"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need to check the weather.",
+    "ground_truth_task": "plan outfit"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to watch TV.",
+    "ground_truth_task": "sit on couch"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need to take medicine.",
+    "ground_truth_task": "set alarm"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to do laundry.",
+    "ground_truth_task": "sort laundry"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I need to charge my phone.",
+    "ground_truth_task": "find outlet"
+  },
+  {
+    "user_id": "U005",
+    "demand": "I want to cook dinner.",
+    "ground_truth_task": "set timer"
+  }
+]

@@ -1,0 +1,1687 @@
+[
+    {
+        "subject": "livingroom",
+        "predicate": "isOn",
+        "object": "floor"
+    },
+    {
+        "subject": "study",
+        "predicate": "isOn",
+        "object": "floor"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "isOn",
+        "object": "floor"
+    },
+    {
+        "subject": "bedroom",
+        "predicate": "isOn",
+        "object": "floor"
+    },
+    {
+        "subject": "diningroom",
+        "predicate": "isOn",
+        "object": "floor"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "isOn",
+        "object": "floor"
+    },
+    {
+        "subject": "whistle",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "stero",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "stero",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "stero",
+        "predicate": "isNextTo",
+        "object": "tv"
+    },
+    {
+        "subject": "aircleaner",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "aircleaner",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "aircondition",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "aircondition",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "bathheater",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "bathheater",
+        "predicate": "isIn",
+        "object": "toilet"
+    },
+    {
+        "subject": "bathheater",
+        "predicate": "isNextTo",
+        "object": "waterheater"
+    },
+    {
+        "subject": "waterfitter",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "watering can",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "watering can",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "waterfitter",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "waterfitter",
+        "predicate": "isNextTo",
+        "object": "dishwasher"
+    },
+    {
+        "subject": "waterfitter1",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "waterfitter1",
+        "predicate": "isIn",
+        "object": "toilet"
+    },
+    {
+        "subject": "waterfitter1",
+        "predicate": "isNextTo",
+        "object": "magicmirror"
+    },
+    {
+        "subject": "bodyfatscale",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "bodyfatscale",
+        "predicate": "isIn",
+        "object": "toilet"
+    },
+    {
+        "subject": "bodyfatscale",
+        "predicate": "isNextTo",
+        "object": "intelligentclosestool"
+    },
+    {
+        "subject": "electricmassagechairs",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "electricmassagechairs",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "electricmassagechairs",
+        "predicate": "isNextTo",
+        "object": "teatable"
+    },
+    {
+        "subject": "electricpot",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "electricpot",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "electricpot",
+        "predicate": "isNextTo",
+        "object": "wallbreaker"
+    },
+    {
+        "subject": "fridge",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "fridge",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "fridge1",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "fridge1",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "fridge1",
+        "predicate": "isNextTo",
+        "object": "tv1"
+    },
+    {
+        "subject": "gasalarm",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "gasalarm",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "humidifier",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "humidifier",
+        "predicate": "isIn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "intelligentdoorlock",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "intelligentdoorlock",
+        "predicate": "isNextTo",
+        "object": "gatingsensor"
+    },
+    {
+        "subject": "light",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "light",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "light",
+        "predicate": "isNextTo",
+        "object": "teatable"
+    },
+    {
+        "subject": "securitycamera",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "securitycamera",
+        "predicate": "isNextTo",
+        "object": "tv1"
+    },
+    {
+        "subject": "tv",
+        "predicate": "hasState",
+        "object": "bad"
+    },
+    {
+        "subject": "tv",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "tv",
+        "predicate": "isNextTo",
+        "object": "bookcase"
+    },
+    {
+        "subject": "tv1",
+        "predicate": "hasState",
+        "object": "good"
+    },
+    {
+        "subject": "tv1",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "tv1",
+        "predicate": "isNextTo",
+        "object": "fridge1"
+    },
+    {
+        "subject": "pan",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "mug",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "mug",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "glass",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "cup",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "cup",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "glass",
+        "predicate": "hasState",
+        "object": "dirty"
+    },
+    {
+        "subject": "officetable",
+        "predicate": "isIn",
+        "object": "study"
+    },
+    {
+        "subject": "handbag",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "notebook",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "pen",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "spectaclecase",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "spectaclecase",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "spectaclecase",
+        "predicate": "isOn",
+        "object": "table"
+    },
+    {
+        "subject": "spectaclecase",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "peanut",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "flowers",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "flowers",
+        "predicate": "hasState",
+        "object": "dry"
+    },
+    {
+        "subject": "sunflowerseeds",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "shaver",
+        "predicate": "isOn",
+        "object": "toilet"
+    },
+    {
+        "subject": "soap",
+        "predicate": "isOn",
+        "object": "toilet"
+    },
+    {
+        "subject": "toothbrush",
+        "predicate": "isOn",
+        "object": "toilet"
+    },
+    {
+        "subject": "towel",
+        "predicate": "isOn",
+        "object": "toilet"
+    },
+    {
+        "subject": "apple",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "banana",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "blueberry",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "orange",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "orange",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "orange",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "pear",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "pear",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "pear",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "coat",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "earrings",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "jeans",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "necklace",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "pants",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "ring",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "scarf",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "shoes",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "tie",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "vest",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "beerbottle",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "beerbottle",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "box",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "box",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "box",
+        "predicate": "isOn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "coffeecup",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "kettle",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "kettle",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "kettle",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "medicinebasket",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "medicinebottle",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "medicinebottle",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "medicinebottle",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "medicinebottle",
+        "predicate": "isOn",
+        "object": "table"
+    },
+    {
+        "subject": "medicinebottle",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "milkbottle",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "milkbottle",
+        "predicate": "isOn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "tray",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "tray",
+        "predicate": "isOn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "umbrella",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "umbrella",
+        "predicate": "isNextTo",
+        "object": "shoecabinet"
+    },
+    {
+        "subject": "umbrella",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "umbrella",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "wallet",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "wallet",
+        "predicate": "isOn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "watercup",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "faucet",
+        "predicate": "hasState",
+        "object": "good"
+    },
+    {
+        "subject": "sink",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "watercup",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "watercup",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "winebottle",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "winebottle",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "eggs",
+        "predicate": "hasState",
+        "object": "fresh"
+    },
+    {
+        "subject": "plate[1]",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "plate[1]",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "plate[2]",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "plate[2]",
+        "predicate": "hasState",
+        "object": "dirty"
+    },
+    {
+        "subject": "cabbage",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "carrot",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "cucumber",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "eggplant",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "potato",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "tomato",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "autoricecooker",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "autoricecooker",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "coffeemaker",
+        "predicate": "hasState",
+        "object": "closed" 
+    },
+    {
+        "subject": "coffeemaker",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "coffeemaker",
+        "predicate": "isNextTo",
+        "object": "fridge"
+    },
+    {
+        "subject": "cooker",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "cooker",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "stove",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "cooker",
+        "predicate": "isNextTo",
+        "object": "electricpot"
+    },
+    {
+        "subject": "dishwasher",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "dishwasher",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "dishwasher",
+        "predicate": "isNextTo",
+        "object": "waterfitter"
+    },
+    {
+        "subject": "disinfectioncabinet",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "disinfectioncabinet",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "kitchenventilator",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "kitchenventilator",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "kitchenventilator",
+        "predicate": "isNextTo",
+        "object": "cooker"
+    },
+    {
+        "subject": "microwave",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "microwave",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "toaster",
+        "predicate": "hasState",
+        "object": "broken"
+    },
+    {
+        "subject": "toaster",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "toaster",
+        "predicate": "isNextTo",
+        "object": "steambox"
+    },
+    {
+        "subject": "basketball",
+        "predicate": "isIn",
+        "object": "study"
+    },
+    {
+        "subject": "football",
+        "predicate": "isIn",
+        "object": "study"
+    },
+    {
+        "subject": "magic square",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "sandbox",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "bathheater"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "bodyfatscale"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "intelligentclosestool"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "magicmirror"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "washingmachine"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "waterfitter1"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasPart",
+        "object": "waterheater"
+    },
+    {
+        "subject": "toilet",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "coffeemaker"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "cooker"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "desk"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "dishwasher"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "electricpot"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "fridge"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "fridge1"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "hearth"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "kitchenventilator"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "microwave"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "steambox"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "toaster"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "tv1"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "vegetablewashingsink"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "wallbreaker"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "wasteprocessor"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasPart",
+        "object": "waterfitter"
+    },
+    {
+        "subject": "kitchen",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "aircondition"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "bookcase"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "cellaret"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "electriccurtain"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "electricmassagechairs"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "floormoppingrobot"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "light"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "shoecabinet"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "sofa[1]"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "sofa[2]"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "table"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "teatable"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "tv"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "windowopener"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasPart",
+        "object": "windows"
+    },
+    {
+        "subject": "livingroom",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "clothes",
+        "predicate": "isIn",
+        "object": "basket"
+    },
+    {
+        "subject": "basket",
+        "predicate": "isIn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "basket",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "clothes",
+        "predicate": "hasState",
+        "object": "dirty"
+    },
+    {
+        "subject": "washingmachine",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "washingmachine",
+        "predicate": "hasState",
+        "object": "broken"
+    },
+    {
+        "subject": "washingmachine",
+        "predicate": "isIn",
+        "object": "toilet"
+    },
+    {
+        "subject": "washingmachine",
+        "predicate": "isNextTo",
+        "object": "magicmirror"
+    },
+    {
+        "subject": "bed",
+        "predicate": "isIn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "battery",
+        "predicate": "isIn",
+        "object": "remotecontrol"
+    },
+    {
+        "subject": "strip",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "curtain",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "curtain",
+        "predicate": "isIn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "electriccurtain",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "electriccurtain",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "electriccurtain",
+        "predicate": "isNextTo",
+        "object": "windows"
+    },
+    {
+        "subject": "shoecabinet",
+        "predicate": "hasState",
+        "object": "opened"
+    },
+    {
+        "subject": "shoecabinet",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "shoecabinet",
+        "predicate": "isNextTo",
+        "object": "windows"
+    },
+    {
+        "subject": "wardrobe",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "wardrobe",
+        "predicate": "isIn",
+        "object": "bedroom"
+    },
+    {
+        "subject": "bookcase",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "bookcase",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "bookcase",
+        "predicate": "isNextTo",
+        "object": "tv"
+    },
+    {
+        "subject": "table",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "table",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "table",
+        "predicate": "isNextTo",
+        "object": "sofa[1]"
+    },
+    {
+        "subject": "whiskey",
+        "predicate": "isIn",
+        "object": "cellaret"
+    },
+    {
+        "subject": "cellaret",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "cellaret",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "cellaret",
+        "predicate": "isNextTo",
+        "object": "tv"
+    },
+    {
+        "subject": "knife",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "knife",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "cupboard",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "cupboard",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "desk",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "desk",
+        "predicate": "isNextTo",
+        "object": "dishwasher"
+    },
+    {
+        "subject": "dinnertable",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "dinnertable",
+        "predicate": "isIn",
+        "object": "diningroom"
+    },
+    {
+        "subject": "teatable",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "teatable",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "teatable",
+        "predicate": "isNextTo",
+        "object": "sofa[1]"
+    },
+    {
+        "subject": "sofa[1]",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "sofa[1]",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "sofa[1]",
+        "predicate": "isNextTo",
+        "object": "teatable"
+    },
+    {
+        "subject": "sofa[2]",
+        "predicate": "hasState",
+        "object": "empty"
+    },
+    {
+        "subject": "sofa[2]",
+        "predicate": "isIn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "sofa[2]",
+        "predicate": "isNextTo",
+        "object": "teatable"
+    },
+    {
+        "subject": "window",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "beef",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "chicken",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "duck",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "fish",
+        "predicate": "isOn",
+        "object": "dinnertable"
+    },
+    {
+        "subject": "cola",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "juice",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "juice",
+        "predicate": "hasState",
+        "object": "fresh"
+    },
+    {
+        "subject": "pork",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "pork",
+        "predicate": "hasState",
+        "object": "fresh"
+    },
+    {
+        "subject": "beer",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "beer",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "beer",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "coffee",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "coffee",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "coffee",
+        "predicate": "isOn",
+        "object": "dinnertable"
+    },
+    {
+        "subject": "milk",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "milk",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "milk",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "milk",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "milk",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "sprite",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "sprite",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "sprite",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "sprite",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "sprite",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "tea",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "tea",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "tea",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "tea",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "tea",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "yogurt",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "yogurt",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "yogurt",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "yogurt",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "yogurt",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "biscuits",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "biscuits",
+        "predicate": "isOn",
+        "object": "table"
+    },
+    {
+        "subject": "biscuits",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "cake",
+        "predicate": "isOn",
+        "object": "dinnertable"
+    },
+    {
+        "subject": "chips",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "chips",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "chips",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "chips",
+        "predicate": "isOn",
+        "object": "table"
+    },
+    {
+        "subject": "chips",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "chocolate",
+        "predicate": "isOn",
+        "object": "dinnertable"
+    },
+    {
+        "subject": "frenchfries",
+        "predicate": "isOn",
+        "object": "dinnertable"
+    },
+    {
+        "subject": "salad",
+        "predicate": "isIn",
+        "object": "kitchen"
+    },
+    {
+        "subject": "bloodglucosemonitor",
+        "predicate": "isNextTo",
+        "object": "sphygmomanometer"
+    },
+    {
+        "subject": "cellphone",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "keyboard",
+        "predicate": "isNextTo",
+        "object": "mouse"
+    },
+    {
+        "subject": "mouse",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "mouse",
+        "predicate": "isOn",
+        "object": "table"
+    },
+    {
+        "subject": "mouse",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "bowl",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "bowl",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "chopsticks",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "fork",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "lunch_box",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "lunch_box",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "dish",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "dish",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "spoon",
+        "predicate": "isIn",
+        "object": "cupboard"
+    },
+    {
+        "subject": "cheese",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "mug",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "water",
+        "predicate": "hasState",
+        "object": "closed"
+    },
+    {
+        "subject": "water",
+        "predicate": "hasState",
+        "object": "filled"
+    },
+    {
+        "subject": "water",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "bread",
+        "predicate": "isIn",
+        "object": "fridge"
+    },
+    {
+        "subject": "rice",
+        "predicate": "isOn",
+        "object": "dinnertable"
+    },
+    {
+        "subject": "transhcan",
+        "predicate": "isOn",
+        "object": "toilet"
+    },
+    {
+        "subject": "duster cloth",
+        "predicate": "isOn",
+        "object": "desk"
+    },
+    {
+        "subject": "duster cloth",
+        "predicate": "hasState",
+        "object": "clean"
+    },
+    {
+        "subject": "mop",
+        "predicate": "isIn",
+        "object": "toilet"
+    },
+    {
+        "subject": "mop",
+        "predicate": "hasState",
+        "object": "dirty"
+    },
+    {
+        "subject": "saw",
+        "predicate": "isOn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "scissor",
+        "predicate": "isOn",
+        "object": "livingroom"
+    },
+    {
+        "subject": "key",
+        "predicate": "isOn",
+        "object": "officetable"
+    },
+    {
+        "subject": "remotecontrol",
+        "predicate": "isOn",
+        "object": "teatable"
+    },
+    {
+        "subject": "remotecontrol",
+        "predicate": "hasState",
+        "object": "good"
+    }
+]

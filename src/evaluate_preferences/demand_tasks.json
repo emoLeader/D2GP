@@ -1,0 +1,142 @@
+{
+  "I need a hot drink.": [
+    "serve coffee",
+    "serve tea",
+    "heat milk",
+    "make hot chocolate",
+    "brew latte"
+  ],
+  "I want some fruit to eat.": [
+    "serve banana",
+    "serve apple",
+    "serve orange",
+    "make fruit salad",
+    "serve grapes"
+  ],
+  "I am looking for a snack.": [
+    "serve cookies",
+    "serve chips",
+    "serve pretzels",
+    "serve nuts",
+    "serve granola bar"
+  ],
+  "I need to have a meeting.": [
+    "prepare slides",
+    "turn on camera",
+    "connect speakers",
+    "schedule meeting",
+    "set up projector"
+  ],
+  "I want to relax and sit comfortably.": [
+    "bring cushion",
+    "adjust lighting",
+    "arrange chair",
+    "play soft music",
+    "offer tea"
+  ],
+  "I need something to store and keep food fresh.": [
+    "put food in fridge",
+    "open freezer",
+    "label leftovers",
+    "seal container",
+    "arrange pantry"
+  ],
+  "I am hungry and need something to eat.": [
+    "serve sandwich",
+    "serve salad",
+    "serve soup",
+    "serve omelette",
+    "serve pizza"
+  ],
+  "I want to listen to music.": [
+    "play classical music",
+    "play pop music",
+    "play ambient sound",
+    "turn on speaker",
+    "shuffle playlist"
+  ],
+  "I want a dessert.": [
+    "serve cake",
+    "serve ice cream",
+    "serve pie",
+    "serve pudding",
+    "serve cookies"
+  ],
+  "I need a cold beverage.": [
+    "serve iced tea",
+    "serve lemonade",
+    "serve soda",
+    "serve juice",
+    "serve cold water"
+  ],
+  "I need to clean the room.": [
+    "vacuum floor",
+    "dust shelves",
+    "wipe windows",
+    "organize books",
+    "take out trash"
+  ],
+  "I want to read a book.": [
+    "recommend book",
+    "turn on lamp",
+    "get reading glasses",
+    "fetch bookmark",
+    "arrange comfy chair"
+  ],
+  "I need to make a phone call.": [
+    "dial number",
+    "check signal",
+    "charge phone",
+    "find contacts",
+    "open dialer"
+  ],
+  "I want to exercise.": [
+    "start treadmill",
+    "prepare yoga mat",
+    "play workout music",
+    "fill water bottle",
+    "warm up stretches"
+  ],
+  "I need to check the weather.": [
+    "open weather app",
+    "check forecast",
+    "measure temperature",
+    "look outside window",
+    "plan outfit"
+  ],
+  "I want to watch TV.": [
+    "turn on TV",
+    "select channel",
+    "adjust volume",
+    "get remote",
+    "sit on couch"
+  ],
+  "I need to take medicine.": [
+    "fetch medicine",
+    "pour water",
+    "open pill box",
+    "check prescription",
+    "set alarm"
+  ],
+  "I want to do laundry.": [
+    "load washer",
+    "add detergent",
+    "start washing machine",
+    "hang clothes",
+    "sort laundry"
+  ],
+  "I need to charge my phone.": [
+    "plug into charger",
+    "check battery status",
+    "get charger",
+    "connect power bank",
+    "find outlet"
+  ],
+  "I want to cook dinner.": [
+    "preheat oven",
+    "chop vegetables",
+    "boil water",
+    "season meat",
+    "set timer"
+  ]
+}

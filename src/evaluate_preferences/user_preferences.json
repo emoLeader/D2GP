@@ -1,0 +1,1127 @@
+[
+  {
+    "user_id": "U001",
+    "preferences": [
+      {
+        "demand": "I need a hot drink.",
+        "preferences": [
+          { "serve coffee": 0.55 },
+          { "make hot chocolate": 0.08 },
+          { "brew latte": 0.32 },
+          { "serve tea": 0.04 },
+          { "heat milk": 0.01 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want some fruit to eat.",
+        "preferences": [
+          { "serve banana": 0.20 },
+          { "serve grapes": 0.02 },
+          { "make fruit salad": 0.42 },
+          { "serve apple": 0.33 },
+          { "serve orange": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am looking for a snack.",
+        "preferences": [
+          { "serve cookies": 0.90 },
+          { "serve nuts": 0.02 },
+          { "serve chips": 0.02 },
+          { "serve granola bar": 0.03 },
+          { "serve pretzels": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to have a meeting.",
+        "preferences": [
+          { "prepare slides": 0.30 },
+          { "set up projector": 0.02 },
+          { "schedule meeting": 0.22 },
+          { "turn on camera": 0.13 },
+          { "connect speakers": 0.33 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to relax and sit comfortably.",
+        "preferences": [
+          { "bring cushion": 0.50 },
+          { "offer tea": 0.02 },
+          { "play soft music": 0.42 },
+          { "adjust lighting": 0.03 },
+          { "arrange chair": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need something to store and keep food fresh.",
+        "preferences": [
+          { "put food in fridge": 0.90 },
+          { "label leftovers": 0.02 },
+          { "seal container": 0.02 },
+          { "open freezer": 0.03 },
+          { "arrange pantry": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am hungry and need something to eat.",
+        "preferences": [
+          { "serve sandwich": 0.50 },
+          { "serve pizza": 0.02 },
+          { "serve salad": 0.22 },
+          { "serve soup": 0.03 },
+          { "serve omelette": 0.23 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to listen to music.",
+        "preferences": [
+          { "play classical music": 0.40 },
+          { "shuffle playlist": 0.02 },
+          { "play soft music": 0.02 },
+          { "play ambient sound": 0.53 },
+          { "play pop music": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want a dessert.",
+        "preferences": [
+          { "serve cake": 0.30 },
+          { "serve cookies": 0.32 },
+          { "serve ice cream": 0.02 },
+          { "serve pie": 0.03 },
+          { "serve pudding": 0.33 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need a cold beverage.",
+        "preferences": [
+          { "serve iced tea": 0.90 },
+          { "serve cold water": 0.02 },
+          { "serve juice": 0.02 },
+          { "serve lemonade": 0.03 },
+          { "serve soda": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to clean the room.",
+        "preferences": [
+          { "vacuum floor": 0.30 },
+          { "take out trash": 0.32 },
+          { "wipe windows": 0.02 },
+          { "dust shelves": 0.33 },
+          { "organize books": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to read a book.",
+        "preferences": [
+          { "recommend book": 0.90 },
+          { "arrange comfy chair": 0.02 },
+          { "get reading glasses": 0.02 },
+          { "turn on lamp": 0.03 },
+          { "fetch bookmark": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to make a phone call.",
+        "preferences": [
+          { "dial number": 0.80 },
+          { "open dialer": 0.02 },
+          { "find contacts": 0.12 },
+          { "check signal": 0.03 },
+          { "charge phone": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to exercise.",
+        "preferences": [
+          { "start treadmill": 0.10 },
+          { "warm up stretches": 0.22 },
+          { "play workout music": 0.42 },
+          { "prepare yoga mat": 0.23 },
+          { "fill water bottle": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to check the weather.",
+        "preferences": [
+          { "open weather app": 0.22 },
+          { "plan outfit": 0.02 },
+          { "look outside window": 0.40 },
+          { "check forecast": 0.03 },
+          { "measure temperature": 0.33 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to watch TV.",
+        "preferences": [
+          { "turn on TV": 0.90 },
+          { "sit on couch": 0.02 },
+          { "get remote": 0.02 },
+          { "select channel": 0.03 },
+          { "adjust volume": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to take medicine.",
+        "preferences": [
+          { "fetch medicine": 0.50 },
+          { "set alarm": 0.42 },
+          { "open pill box": 0.02 },
+          { "pour water": 0.03 },
+          { "check prescription": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to do laundry.",
+        "preferences": [
+          { "load washer": 0.90 },
+          { "sort laundry": 0.02 },
+          { "hang clothes": 0.02 },
+          { "add detergent": 0.03 },
+          { "start washing machine": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to charge my phone.",
+        "preferences": [
+          { "plug into charger": 0.30 },
+          { "find outlet": 0.02 },
+          { "get charger": 0.02 },
+          { "check battery status": 0.63 },
+          { "connect power bank": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to cook dinner.",
+        "preferences": [
+          { "preheat oven": 0.10 },
+          { "boil water": 0.42 },
+          { "chop vegetables": 0.42 },
+          { "season meat": 0.03 },
+          { "set timer": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      }
+    ]
+  },
+  {
+    "user_id": "U002",
+    "preferences": [
+      {
+        "demand": "I need a hot drink.",
+        "preferences": [
+          { "serve tea": 0.90 },
+          { "heat milk": 0.02 },
+          { "brew latte": 0.02 },
+          { "make hot chocolate": 0.03 },
+          { "serve coffee": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want some fruit to eat.",
+        "preferences": [
+          { "serve apple": 0.45 },
+          { "serve bananas": 0.42 },
+          { "serve grapes": 0.07 },
+          { "serve banana": 0.03 },
+          { "serve orange": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am looking for a snack.",
+        "preferences": [
+          { "serve chips": 0.60 },
+          { "serve pretzels": 0.01 },
+          { "serve nuts": 0.02 },
+          { "serve cookies": 0.04 },
+          { "serve granola bar": 0.33 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to have a meeting.",
+        "preferences": [
+          { "turn on camera": 0.40 },
+          { "schedule meeting": 0.02 },
+          { "prepare slides": 0.42 },
+          { "connect speakers": 0.13 },
+          { "set up projector": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to relax and sit comfortably.",
+        "preferences": [
+          { "adjust lighting": 0.39 },
+          { "offer tea": 0.02 },
+          { "play soft music": 0.32 },
+          { "arrange chair": 0.23 },
+          { "bring cushion": 0.04 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need something to store and keep food fresh.",
+        "preferences": [
+          { "open freezer": 0.60 },
+          { "label leftovers": 0.02 },
+          { "arrange pantry": 0.02 },
+          { "put food in fridge": 0.33 },
+          { "seal container": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am hungry and need something to eat.",
+        "preferences": [
+          { "serve salad": 0.90 },
+          { "serve sandwich": 0.02 },
+          { "serve omelette": 0.02 },
+          { "serve soup": 0.03 },
+          { "serve pizza": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to listen to music.",
+        "preferences": [
+          { "play pop music": 0.40 },
+          { "play ambient sound": 0.02 },
+          { "shuffle playlist": 0.02 },
+          { "turn on speaker": 0.33 },
+          { "play classical music": 0.23 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want a dessert.",
+        "preferences": [
+          { "serve ice cream": 0.20 },
+          { "serve cake": 0.32 },
+          { "serve cookies": 0.02 },
+          { "serve pie": 0.43 },
+          { "serve pudding": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need a cold beverage.",
+        "preferences": [
+          { "serve lemonade": 0.40 },
+          { "serve juice": 0.52 },
+          { "serve soda": 0.02 },
+          { "serve iced tea": 0.03 },
+          { "serve cold water": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to clean the room.",
+        "preferences": [
+          { "dust shelves": 0.90 },
+          { "organize books": 0.02 },
+          { "wipe windows": 0.02 },
+          { "vacuum floor": 0.03 },
+          { "take out trash": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to read a book.",
+        "preferences": [
+          { "turn on lamp": 0.41 },
+          { "get reading glasses": 0.01 },
+          { "arrange comfy chair": 0.03 },
+          { "recommend book": 0.52 },
+          { "fetch bookmark": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to make a phone call.",
+        "preferences": [
+          { "check signal": 0.33 },
+          { "dial number": 0.02 },
+          { "open dialer": 0.29 },
+          { "find contacts": 0.33 },
+          { "charge phone": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to exercise.",
+        "preferences": [
+          { "prepare yoga mat": 0.90 },
+          { "fill water bottle": 0.02 },
+          { "start treadmill": 0.02 },
+          { "play workout music": 0.03 },
+          { "warm up stretches": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to check the weather.",
+        "preferences": [
+          { "check forecast": 0.40 },
+          { "open weather app": 0.02 },
+          { "plan outfit": 0.32 },
+          { "measure temperature": 0.23 },
+          { "look outside window": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to watch TV.",
+        "preferences": [
+          { "select channel": 0.40 },
+          { "turn on TV": 0.52 },
+          { "get remote": 0.02 },
+          { "adjust volume": 0.03 },
+          { "sit on couch": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to take medicine.",
+        "preferences": [
+          { "pour water": 0.90 },
+          { "fetch medicine": 0.02 },
+          { "set alarm": 0.02 },
+          { "check prescription": 0.03 },
+          { "open pill box": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to do laundry.",
+        "preferences": [
+          { "add detergent": 0.40 },
+          { "load washer": 0.02 },
+          { "hang clothes": 0.02 },
+          { "start washing machine": 0.03 },
+          { "sort laundry": 0.53 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to charge my phone.",
+        "preferences": [
+          { "check battery status": 0.90 },
+          { "plug into charger": 0.02 },
+          { "connect power bank": 0.02 },
+          { "get charger": 0.03 },
+          { "find outlet": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to cook dinner.",
+        "preferences": [
+          { "chop vegetables": 0.70 },
+          { "preheat oven": 0.02 },
+          { "boil water": 0.02 },
+          { "set timer": 0.23 },
+          { "season meat": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      }
+    ]
+  },
+  {
+    "user_id": "U003",
+    "preferences": [
+      {
+        "demand": "I need a hot drink.",
+        "preferences": [
+          { "heat milk": 0.30 },
+          { "serve coffee": 0.02 },
+          { "serve tea": 0.02 },
+          { "make hot chocolate": 0.63 },
+          { "brew latte": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want some fruit to eat.",
+        "preferences": [
+          { "serve orange": 0.90 },
+          { "serve banana": 0.02 },
+          { "serve grapes": 0.02 },
+          { "make fruit salad": 0.03 },
+          { "serve apple": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am looking for a snack.",
+        "preferences": [
+          { "serve pretzels": 0.40 },
+          { "serve chips": 0.32 },
+          { "serve granola bar": 0.22 },
+          { "serve cookies": 0.03 },
+          { "serve nuts": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to have a meeting.",
+        "preferences": [
+          { "connect speakers": 0.90 },
+          { "prepare slides": 0.02 },
+          { "turn on camera": 0.02 },
+          { "schedule meeting": 0.03 },
+          { "set up projector": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to relax and sit comfortably.",
+        "preferences": [
+          { "arrange chair": 0.40 },
+          { "offer tea": 0.04 },
+          { "bring cushion": 0.52 },
+          { "adjust lighting": 0.01 },
+          { "play soft music": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need something to store and keep food fresh.",
+        "preferences": [
+          { "label leftovers": 0.10 },
+          { "put food in fridge": 0.82 },
+          { "seal container": 0.02 },
+          { "open freezer": 0.03 },
+          { "arrange pantry": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am hungry and need something to eat.",
+        "preferences": [
+          { "serve soup": 0.90 },
+          { "serve salad": 0.02 },
+          { "serve sandwich": 0.02 },
+          { "serve omelette": 0.03 },
+          { "serve pizza": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to listen to music.",
+        "preferences": [
+          { "play ambient sound": 0.40 },
+          { "play classical music": 0.02 },
+          { "shuffle playlist": 0.02 },
+          { "turn on speaker": 0.53 },
+          { "play pop music": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want a dessert.",
+        "preferences": [
+          { "serve pie": 0.90 },
+          { "serve cake": 0.02 },
+          { "serve cookies": 0.02 },
+          { "serve ice cream": 0.03 },
+          { "serve pudding": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need a cold beverage.",
+        "preferences": [
+          { "serve soda": 0.80 },
+          { "serve lemonade": 0.02 },
+          { "serve juice": 0.12 },
+          { "serve iced tea": 0.03 },
+          { "serve cold water": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to clean the room.",
+        "preferences": [
+          { "wipe windows": 0.90 },
+          { "dust shelves": 0.02 },
+          { "organize books": 0.02 },
+          { "vacuum floor": 0.03 },
+          { "take out trash": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to read a book.",
+        "preferences": [
+          { "get reading glasses": 0.46 },
+          { "recommend book": 0.02 },
+          { "turn on lamp": 0.02 },
+          { "arrange comfy chair": 0.47 },
+          { "fetch bookmark": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to make a phone call.",
+        "preferences": [
+          { "charge phone": 0.30 },
+          { "dial number": 0.02 },
+          { "open dialer": 0.02 },
+          { "find contacts": 0.63 },
+          { "check signal": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to exercise.",
+        "preferences": [
+          { "play workout music": 0.44 },
+          { "start treadmill": 0.02 },
+          { "prepare yoga mat": 0.08 },
+          { "fill water bottle": 0.43 },
+          { "warm up stretches": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to check the weather.",
+        "preferences": [
+          { "measure temperature": 0.90 },
+          { "open weather app": 0.02 },
+          { "look outside window": 0.02 },
+          { "check forecast": 0.03 },
+          { "plan outfit": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to watch TV.",
+        "preferences": [
+          { "adjust volume": 0.09 },
+          { "turn on TV": 0.82 },
+          { "get remote": 0.02 },
+          { "select channel": 0.04 },
+          { "sit on couch": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to take medicine.",
+        "preferences": [
+          { "open pill box": 0.90 },
+          { "fetch medicine": 0.02 },
+          { "set alarm": 0.02 },
+          { "pour water": 0.03 },
+          { "check prescription": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to do laundry.",
+        "preferences": [
+          { "start washing machine": 0.10 },
+          { "load washer": 0.02 },
+          { "sort laundry": 0.02 },
+          { "hang clothes": 0.43 },
+          { "add detergent": 0.43 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to charge my phone.",
+        "preferences": [
+          { "get charger": 0.90 },
+          { "plug into charger": 0.02 },
+          { "check battery status": 0.02 },
+          { "find outlet": 0.03 },
+          { "connect power bank": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to cook dinner.",
+        "preferences": [
+          { "boil water": 0.90 },
+          { "preheat oven": 0.02 },
+          { "chop vegetables": 0.02 },
+          { "season meat": 0.03 },
+          { "set timer": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      }
+    ]
+  },
+  {
+    "user_id": "U004",
+    "preferences": [
+      {
+        "demand": "I need a hot drink.",
+        "preferences": [
+          { "make hot chocolate": 0.10 },
+          { "brew latte": 0.02 },
+          { "serve coffee": 0.42 },
+          { "serve tea": 0.03 },
+          { "heat milk": 0.43 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want some fruit to eat.",
+        "preferences": [
+          { "make fruit salad": 0.90 },
+          { "serve grapes": 0.02 },
+          { "serve banana": 0.02 },
+          { "serve apple": 0.03 },
+          { "serve orange": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am looking for a snack.",
+        "preferences": [
+          { "serve nuts": 0.30 },
+          { "serve granola bar": 0.02 },
+          { "serve pretzels": 0.62 },
+          { "serve chips": 0.03 },
+          { "serve cookies": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to have a meeting.",
+        "preferences": [
+          { "schedule meeting": 0.90 },
+          { "set up projector": 0.02 },
+          { "connect speakers": 0.02 },
+          { "prepare slides": 0.03 },
+          { "turn on camera": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to relax and sit comfortably.",
+        "preferences": [
+          { "play soft music": 0.20 },
+          { "arrange chair": 0.52 },
+          { "bring cushion": 0.02 },
+          { "offer tea": 0.23 },
+          { "adjust lighting": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need something to store and keep food fresh.",
+        "preferences": [
+          { "seal container": 0.90 },
+          { "arrange pantry": 0.02 },
+          { "label leftovers": 0.02 },
+          { "put food in fridge": 0.03 },
+          { "open freezer": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am hungry and need something to eat.",
+        "preferences": [
+          { "serve omelette": 0.60 },
+          { "serve pizza": 0.02 },
+          { "serve sandwich": 0.02 },
+          { "serve salad": 0.33 },
+          { "serve soup": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to listen to music.",
+        "preferences": [
+          { "turn on speaker": 0.90 },
+          { "play ambient sound": 0.02 },
+          { "play pop music": 0.02 },
+          { "play classical music": 0.03 },
+          { "shuffle playlist": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want a dessert.",
+        "preferences": [
+          { "serve pudding": 0.49 },
+          { "serve cookies": 0.02 },
+          { "serve pie": 0.02 },
+          { "serve ice cream": 0.43 },
+          { "serve cake": 0.04 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need a cold beverage.",
+        "preferences": [
+          { "serve juice": 0.90 },
+          { "serve cold water": 0.02 },
+          { "serve soda": 0.02 },
+          { "serve iced tea": 0.03 },
+          { "serve lemonade": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to clean the room.",
+        "preferences": [
+          { "organize books": 0.90 },
+          { "vacuum floor": 0.02 },
+          { "wipe windows": 0.02 },
+          { "dust shelves": 0.03 },
+          { "take out trash": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to read a book.",
+        "preferences": [
+          { "fetch bookmark": 0.90 },
+          { "turn on lamp": 0.02 },
+          { "arrange comfy chair": 0.02 },
+          { "get reading glasses": 0.03 },
+          { "recommend book": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to make a phone call.",
+        "preferences": [
+          { "find contacts": 0.69 },
+          { "open dialer": 0.02 },
+          { "dial number": 0.22 },
+          { "check signal": 0.04 },
+          { "charge phone": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to exercise.",
+        "preferences": [
+          { "warm up stretches": 0.45 },
+          { "fill water bottle": 0.42 },
+          { "play workout music": 0.02 },
+          { "start treadmill": 0.08 },
+          { "prepare yoga mat": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to check the weather.",
+        "preferences": [
+          { "look outside window": 0.70 },
+          { "plan outfit": 0.12 },
+          { "check forecast": 0.02 },
+          { "open weather app": 0.13 },
+          { "measure temperature": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to watch TV.",
+        "preferences": [
+          { "get remote": 0.40 },
+          { "turn on TV": 0.02 },
+          { "sit on couch": 0.52 },
+          { "select channel": 0.03 },
+          { "adjust volume": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to take medicine.",
+        "preferences": [
+          { "check prescription": 0.30 },
+          { "open pill box": 0.02 },
+          { "fetch medicine": 0.02 },
+          { "set alarm": 0.63 },
+          { "pour water": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to do laundry.",
+        "preferences": [
+          { "hang clothes": 0.90 },
+          { "sort laundry": 0.02 },
+          { "start washing machine": 0.02 },
+          { "load washer": 0.03 },
+          { "add detergent": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to charge my phone.",
+        "preferences": [
+          { "connect power bank": 0.50 },
+          { "find outlet": 0.22 },
+          { "plug into charger": 0.22 },
+          { "check battery status": 0.03 },
+          { "get charger": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to cook dinner.",
+        "preferences": [
+          { "season meat": 0.90 },
+          { "boil water": 0.02 },
+          { "preheat oven": 0.02 },
+          { "chop vegetables": 0.03 },
+          { "set timer": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      }
+    ]
+  },
+  {
+    "user_id": "U005",
+    "preferences": [
+      {
+        "demand": "I need a hot drink.",
+        "preferences": [
+          { "brew latte": 0.80 },
+          { "make hot chocolate": 0.07 },
+          { "heat milk": 0.07 },
+          { "serve coffee": 0.03 },
+          { "serve tea": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want some fruit to eat.",
+        "preferences": [
+          { "serve grapes": 0.80 },
+          { "make fruit salad": 0.12 },
+          { "serve orange": 0.02 },
+          { "serve banana": 0.03 },
+          { "serve apple": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am looking for a snack.",
+        "preferences": [
+          { "serve granola bar": 0.90 },
+          { "serve pretzels": 0.02 },
+          { "serve chips": 0.2 },
+          { "serve cookies": 0.03 },
+          { "serve nuts": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to have a meeting.",
+        "preferences": [
+          { "set up projector": 0.90 },
+          { "connect speakers": 0.02 },
+          { "turn on camera": 0.02 },
+          { "prepare slides": 0.03 },
+          { "schedule meeting": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to relax and sit comfortably.",
+        "preferences": [
+          { "offer tea": 0.60 },
+          { "play soft music": 0.32 },
+          { "arrange chair": 0.02 },
+          { "bring cushion": 0.03 },
+          { "adjust lighting": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need something to store and keep food fresh.",
+        "preferences": [
+          { "arrange pantry": 0.90 },
+          { "label leftovers": 0.02 },
+          { "open freezer": 0.02 },
+          { "seal container": 0.03 },
+          { "put food in fridge": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I am hungry and need something to eat.",
+        "preferences": [
+          { "serve pizza": 0.45 },
+          { "serve omelette": 0.02 },
+          { "serve sandwich": 0.47 },
+          { "serve salad": 0.03 },
+          { "serve soup": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to listen to music.",
+        "preferences": [
+          { "shuffle playlist": 0.90 },
+          { "turn on speaker": 0.02 },
+          { "play ambient sound": 0.02 },
+          { "play workout music": 0.03 },
+          { "play pop music": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want a dessert.",
+        "preferences": [
+          { "serve cookies": 0.44 },
+          { "serve cake": 0.02 },
+          { "serve ice cream": 0.22 },
+          { "serve pie": 0.23 },
+          { "serve pudding": 0.09 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need a cold beverage.",
+        "preferences": [
+          { "serve cold water": 0.90 },
+          { "serve soda": 0.02 },
+          { "serve lemonade": 0.02 },
+          { "serve juice": 0.03 },
+          { "serve iced tea": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to clean the room.",
+        "preferences": [
+          { "take out trash": 0.70 },
+          { "organize books": 0.12 },
+          { "vacuum floor": 0.12 },
+          { "dust shelves": 0.03 },
+          { "wipe windows": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to read a book.",
+        "preferences": [
+          { "arrange comfy chair": 0.90 },
+          { "get reading glasses": 0.02 },
+          { "fetch bookmark": 0.02 },
+          { "turn on lamp": 0.03 },
+          { "recommend book": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to make a phone call.",
+        "preferences": [
+          { "open dialer": 0.80 },
+          { "find contacts": 0.02 },
+          { "dial number": 0.02 },
+          { "check signal": 0.13 },
+          { "charge phone": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to exercise.",
+        "preferences": [
+          { "fill water bottle": 0.90 },
+          { "warm up stretches": 0.02 },
+          { "start treadmill": 0.02 },
+          { "prepare yoga mat": 0.03 },
+          { "play workout music": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to check the weather.",
+        "preferences": [
+          { "plan outfit": 0.40 },
+          { "open weather app": 0.02 },
+          { "check forecast": 0.02 },
+          { "look outside window": 0.53 },
+          { "measure temperature": 0.03 }
+        ],  
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to watch TV.",
+        "preferences": [
+          { "sit on couch": 0.90 },
+          { "turn on TV": 0.02 },
+          { "get remote": 0.02 },
+          { "select channel": 0.03 },
+          { "adjust volume": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to take medicine.",
+        "preferences": [
+          { "set alarm": 0.33 },
+          { "fetch medicine": 0.09 },
+          { "open pill box": 0.07 },
+          { "check prescription": 0.28 },
+          { "pour water": 0.23 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to do laundry.",
+        "preferences": [
+          { "sort laundry": 0.90 },
+          { "load washer": 0.02 },
+          { "hang clothes": 0.02 },
+          { "start washing machine": 0.03 },
+          { "add detergent": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I need to charge my phone.",
+        "preferences": [
+          { "find outlet": 0.90 },
+          { "plug into charger": 0.02 },
+          { "check battery status": 0.02 },
+          { "connect power bank": 0.03 },
+          { "get charger": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      },
+      {
+        "demand": "I want to cook dinner.",
+        "preferences": [
+          { "set timer": 0.45 },
+          { "preheat oven": 0.32 },
+          { "chop vegetables": 0.02 },
+          { "boil water": 0.18 },
+          { "season meat": 0.03 }
+        ],
+        "timestamp": "2025-06-05"
+      }
+    ]
+  }
+]

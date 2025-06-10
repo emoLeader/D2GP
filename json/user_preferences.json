@@ -1,0 +1,661 @@
+[
+    {
+        "user_id": "001",
+        "preferences": [
+            {
+                "demand": "I need a hot drink.",
+                "preferences": [
+                    {
+                        "tea": 0.47619047619047616
+                    },
+                    {
+                        "coffee": 0.14285714285714288
+                    },
+                    {
+                        "hot chocolate": 0.14285714285714285
+                    },
+                    {
+                        "herbal tea": 0.09523809523809523
+                    },
+                    {
+                        "latte": 0.047619047619047616
+                    },
+                    {
+                        "chocolate milk": 0.09523809523809523
+                    },
+                    {
+                        "whiskey": 0.0
+                    },
+                    {
+                        "milk": 0.0
+                    },
+                    {
+                        "milkshake": 0.0
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want some fruit to eat.",
+                "preferences": [
+                    {
+                        "apple": 0.3
+                    },
+                    {
+                        "banana": 0.25
+                    },
+                    {
+                        "orange": 0.2
+                    },
+                    {
+                        "grapes": 0.15
+                    },
+                    {
+                        "strawberries": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need something to boil water with.",
+                "preferences": [
+                    {
+                        "electric kettle": 0.4
+                    },
+                    {
+                        "tea kettle on stovetop": 0.25
+                    },
+                    {
+                        "microwave": 0.15
+                    },
+                    {
+                        "instant hot water dispenser": 0.1
+                    },
+                    {
+                        "coffee maker": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need a comfortable place to sit.",
+                "preferences": [
+                    {
+                        "ergonomic chair": 0.3
+                    },
+                    {
+                        "bean bag chair": 0.25
+                    },
+                    {
+                        "recliner": 0.2
+                    },
+                    {
+                        "sofa": 0.15
+                    },
+                    {
+                        "rocking chair": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want to relax and sit comfortably.",
+                "preferences": [
+                    {
+                        "sofa": 0.3
+                    },
+                    {
+                        "bean bag": 0.25
+                    },
+                    {
+                        "hammock": 0.2
+                    },
+                    {
+                        "recliner": 0.15
+                    },
+                    {
+                        "rocking chair": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to wake up in the morning.",
+                "preferences": [
+                    {
+                        "alarm clock": 0.4
+                    },
+                    {
+                        "phone alarm": 0.3
+                    },
+                    {
+                        "sunrise simulator": 0.15
+                    },
+                    {
+                        "smart speaker alarm": 0.1
+                    },
+                    {
+                        "clock radio": 0.05
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need something to decorate my wall.",
+                "preferences": [
+                    {
+                        "painting": 0.3
+                    },
+                    {
+                        "poster": 0.25
+                    },
+                    {
+                        "wall clock": 0.2
+                    },
+                    {
+                        "framed photograph": 0.15
+                    },
+                    {
+                        "tapestry": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "wash plate",
+                "preferences": [
+                    {
+                        "wash plate": 0.3333333333333333
+                    },
+                    {
+                        "dry bowl": 0.16666666666666666
+                    },
+                    {
+                        "dish": 0.16666666666666666
+                    },
+                    {
+                        "wash bowl": 0.16666666666666666
+                    },
+                    {
+                        "dry dish": 0.16666666666666666
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need something to make a meal with.",
+                "preferences": [
+                    {
+                        "scrambled eggs": 0.16666666666666666
+                    },
+                    {
+                        "bake biscuits": 0.16666666666666666
+                    },
+                    {
+                        "boil chicken": 0.3333333333333333
+                    },
+                    {
+                        "slices": 0.16666666666666666
+                    },
+                    {
+                        "porridge": 0.16666666666666666
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need something to drink",
+                "preferences": [
+                    {
+                        "beer": 0.2105263157894737
+                    },
+                    {
+                        "coffee": 0.2105263157894737
+                    },
+                    {
+                        "milk": 0.3684210526315789
+                    },
+                    {
+                        "tea": 0.2105263157894737
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            }
+        ]
+    },
+    {
+        "user_id": "002",
+        "preferences": [
+            {
+                "demand": "I need a hot drink.",
+                "preferences": [
+                    {
+                        "coffee": 0.4
+                    },
+                    {
+                        "tea": 0.3
+                    },
+                    {
+                        "latte": 0.15
+                    },
+                    {
+                        "green tea": 0.1
+                    },
+                    {
+                        "hot chocolate": 0.05
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want some fruit to eat.",
+                "preferences": [
+                    {
+                        "orange": 0.3
+                    },
+                    {
+                        "banana": 0.25
+                    },
+                    {
+                        "apple": 0.2
+                    },
+                    {
+                        "grapes": 0.15
+                    },
+                    {
+                        "kiwi": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need something to boil water with.",
+                "preferences": [
+                    {
+                        "microwave": 0.3
+                    },
+                    {
+                        "coffee maker": 0.25
+                    },
+                    {
+                        "electric kettle": 0.2
+                    },
+                    {
+                        "stovetop kettle": 0.15
+                    },
+                    {
+                        "instant hot water dispenser": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need a place to sit.",
+                "preferences": [
+                    {
+                        "camping chair": 0.3
+                    },
+                    {
+                        "folding stool": 0.25
+                    },
+                    {
+                        "bench": 0.2
+                    },
+                    {
+                        "bean bag": 0.15
+                    },
+                    {
+                        "picnic blanket": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want to relax and sit comfortably.",
+                "preferences": [
+                    {
+                        "hammock": 0.3
+                    },
+                    {
+                        "camping chair": 0.25
+                    },
+                    {
+                        "bean bag": 0.2
+                    },
+                    {
+                        "recliner": 0.15
+                    },
+                    {
+                        "inflatable lounger": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to wake up in the morning.",
+                "preferences": [
+                    {
+                        "phone alarm": 0.3
+                    },
+                    {
+                        "alarm clock": 0.25
+                    },
+                    {
+                        "clock radio": 0.2
+                    },
+                    {
+                        "smart speaker": 0.15
+                    },
+                    {
+                        "vibrating alarm": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to store and keep food fresh.",
+                "preferences": [
+                    {
+                        "refrigerator": 0.4
+                    },
+                    {
+                        "cooler": 0.25
+                    },
+                    {
+                        "ice packs": 0.2
+                    },
+                    {
+                        "icebox": 0.1
+                    },
+                    {
+                        "portable fridge": 0.05
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want to tell time.",
+                "preferences": [
+                    {
+                        "smartwatch": 0.3
+                    },
+                    {
+                        "digital clock": 0.25
+                    },
+                    {
+                        "analog clock": 0.2
+                    },
+                    {
+                        "phone": 0.15
+                    },
+                    {
+                        "wall clock": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            }
+        ]
+    },
+    {
+        "user_id": "003",
+        "preferences": [
+            {
+                "demand": "I am looking for a snack.",
+                "preferences": [
+                    {
+                        "chips": 0.25
+                    },
+                    {
+                        "cookies": 0.25
+                    },
+                    {
+                        "nuts": 0.2
+                    },
+                    {
+                        "fruit": 0.15
+                    },
+                    {
+                        "granola bar": 0.15
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need a hot drink.",
+                "preferences": [
+                    {
+                        "hot chocolate": 0.3
+                    },
+                    {
+                        "coffee": 0.25
+                    },
+                    {
+                        "tea": 0.2
+                    },
+                    {
+                        "latte": 0.15
+                    },
+                    {
+                        "espresso": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need somewhere to sit.",
+                "preferences": [
+                    {
+                        "floor cushion": 0.3
+                    },
+                    {
+                        "rocking chair": 0.25
+                    },
+                    {
+                        "stool": 0.2
+                    },
+                    {
+                        "sofa": 0.15
+                    },
+                    {
+                        "bean bag": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want to relax and sit comfortably.",
+                "preferences": [
+                    {
+                        "bean bag": 0.3
+                    },
+                    {
+                        "sofa": 0.25
+                    },
+                    {
+                        "floor cushion": 0.2
+                    },
+                    {
+                        "hammock": 0.15
+                    },
+                    {
+                        "recliner": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to wake up in the morning.",
+                "preferences": [
+                    {
+                        "phone alarm": 0.25
+                    },
+                    {
+                        "radio alarm": 0.25
+                    },
+                    {
+                        "alarm clock": 0.2
+                    },
+                    {
+                        "smart speaker": 0.15
+                    },
+                    {
+                        "sunrise lamp": 0.15
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to listen to music.",
+                "preferences": [
+                    {
+                        "radio": 0.3
+                    },
+                    {
+                        "headphones": 0.25
+                    },
+                    {
+                        "bluetooth speaker": 0.2
+                    },
+                    {
+                        "stereo system": 0.15
+                    },
+                    {
+                        "smart speaker": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to record a video.",
+                "preferences": [
+                    {
+                        "smartphone camera": 0.3
+                    },
+                    {
+                        "webcam": 0.25
+                    },
+                    {
+                        "camcorder": 0.2
+                    },
+                    {
+                        "DSLR camera": 0.15
+                    },
+                    {
+                        "action camera": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            }
+        ]
+    },
+    {
+        "user_id": "004",
+        "preferences": [
+            {
+                "demand": "I need a media format to store and transport music and data.",
+                "preferences": [
+                    {
+                        "USB drive": 0.3
+                    },
+                    {
+                        "portable SSD": 0.25
+                    },
+                    {
+                        "CD": 0.2
+                    },
+                    {
+                        "DVD": 0.15
+                    },
+                    {
+                        "Blu-ray": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to carry a heavy load.",
+                "preferences": [
+                    {
+                        "backpack": 0.4
+                    },
+                    {
+                        "handcart": 0.2
+                    },
+                    {
+                        "wheelbarrow": 0.2
+                    },
+                    {
+                        "suitcase": 0.15
+                    },
+                    {
+                        "duffel bag": 0.05
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I am hungry and need something to eat.",
+                "preferences": [
+                    {
+                        "sandwich": 0.3
+                    },
+                    {
+                        "salad": 0.25
+                    },
+                    {
+                        "pizza": 0.2
+                    },
+                    {
+                        "noodles": 0.15
+                    },
+                    {
+                        "burger": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I want to cool down.",
+                "preferences": [
+                    {
+                        "fan": 0.3
+                    },
+                    {
+                        "air conditioner": 0.25
+                    },
+                    {
+                        "ice pack": 0.2
+                    },
+                    {
+                        "cold drink": 0.15
+                    },
+                    {
+                        "cool towel": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            },
+            {
+                "demand": "I need to measure temperature.",
+                "preferences": [
+                    {
+                        "thermometer": 0.3
+                    },
+                    {
+                        "temperature sensor": 0.25
+                    },
+                    {
+                        "thermostat": 0.2
+                    },
+                    {
+                        "infrared thermometer": 0.15
+                    },
+                    {
+                        "smartwatch": 0.1
+                    }
+                ],
+                "timestamp": "2025-06-03"
+            }
+        ]
+    }
+]
