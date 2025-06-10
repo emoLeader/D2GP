@@ -1,12 +1,10 @@
-# D2GP: From Demand to Grounded Plan
+# From Demand to Grounded Plan: Task Customization and Planning for Service Robots with Deep Learning and LLMs
 
 A **user-demand-oriented**, **environment-adaptive** task planning system for service robots, integrating:
 
 - **UATC** (User-Centric Adaptive Task Customization)
 - **TSGP** (Task-Driven Scene Graph Pruning) 
 - **GTP** (Grounded Task Planning)
-  
-> **Paper**: _From Demand to Grounded Plan: Task Customization and Planning for Service Robots with Deep Learning and LLMs_
 
 ---
 
