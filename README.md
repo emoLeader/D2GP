@@ -11,33 +11,30 @@ A **user-demand-oriented**, **environment-adaptive** task planning system for se
 ---
 
 ## 📁 Repository Structure
-
 D2GP/
 ├── json/
-│   ├── available_actions.json         
-│   ├── available_examples.json           
-│   ├── demand_tasks.json                
-│   ├── grounded_tasks.json       
-│   ├── position_relationships_state.json 
-│   └── all_objects.json                  
-│
+│   ├── available_actions.json
+│   ├── available_examples.json
+│   ├── demand_tasks.json
+│   ├── grounded_tasks.json
+│   ├── position_relationships_state.json
+│   └── all_objects.json
 ├── src/
-│   ├── DT_train.py                       
-│   ├── DT_test.py                       
-│   ├── UATC.py                           
-│   ├── GTP.py                            
-│   ├── recursive_traversal.py            
+│   ├── DT_train.py
+│   ├── DT_test.py
+│   ├── UATC.py
+│   ├── GTP.py
+│   ├── recursive_traversal.py
 │   ├── tools/
-│   │   └── fix.py
-│   │   └── generate_tasks_by_objects.py
+│   │   ├── fix.py
+│   │   ├── generate_tasks_by_objects.py
 │   │   └── generate_tasks_for_demands.py
-│   └── evaluate_preferences/             
+│   └── evaluate_preferences/
 │       ├── demand_tasks.json
 │       ├── grounded_tasks.json
 │       ├── user_preferences.json
 │       ├── user_demand_ground_truth.json
 │       └── evaluate_preferences.py
-│
 ├── requirements.txt
 ├── setup.txt
 ├── README.md
