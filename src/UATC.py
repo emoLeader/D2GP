@@ -413,10 +413,6 @@ def extract_label_spacy(task_text: str, known_labels: List[str]) -> str:
     """
     text_lower = task_text.lower()
 
-    # 0. If it contains 'milkshake', return 'milkshake'
-    if "milkshake" in text_lower:
-        return "milkshake"
-
     doc = nlp(task_text)
 
     # 1. Known labels first
