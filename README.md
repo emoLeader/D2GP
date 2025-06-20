@@ -49,7 +49,8 @@ python GTP.py
 
 ### 8. User Preference module evaluation
 ```bash
-python evaluate_preferences/evaluate_preferences.py
+cd evaluate_preferences
+python evaluate_preferences.py
 ```
 
 ## 📁 Repository Structure
