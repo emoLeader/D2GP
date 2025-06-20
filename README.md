@@ -8,6 +8,50 @@ A **user-demand-oriented**, **environment-adaptive** task planning system for se
 
 ---
 
+## Execution
+
+### 1. Clone the repository and navigate into it
+```bash
+git clone https://github.com/emoLeader/D2GP.git
+cd D2GP
+```
+### 2. Create and activate a Conda environment (Linux)
+```bash
+conda create -n d2gp python=3.12.3 -y
+conda activate d2gp
+```
+
+### 3. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Enter the src directory
+```bash
+cd src
+```
+
+### 5. Train the demand–task contrastive learning model
+```bash
+python DT_train.py
+```
+
+### 6. Task customization (UATC)
+```bash
+# Configure user_id, input_text_demand, or input_text_task in UATC.py
+python UATC.py
+```
+
+### 7. Overall task planning framework (including TSGP)
+```bash
+python GTP.py
+```
+
+### 8. User Preference module evaluation
+```bash
+python evaluate_preferences/evaluate_preferences.py
+```
+
 ## 📁 Repository Structure
 
 ```text
