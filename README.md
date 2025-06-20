@@ -53,6 +53,8 @@ cd evaluate_preferences
 python evaluate_preferences.py
 ```
 
+---
+
 ## 📁 Repository Structure
 
 ```text
