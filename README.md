@@ -23,7 +23,13 @@ conda activate d2gp
 
 ### 3. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install --upgrade pip setuptools
+pip install torch==2.4.1
+pip install openai==0.28.0
+pip install jupyter==1.0.0
+pip install numpy
+pip install transformers
+pip install -U sentence-transformers
 ```
 
 ### 4. Enter the src directory
